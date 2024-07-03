@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input{
+  font-size: 20px;
+  border-radius: 15px;
+  padding: 10px;
+  border-color: greenyellow;
+}
+
+input:hover{
+  font-size: 19px;
+  border-radius: 20px;
+  padding: 10px;
+  border-color: greenyellow;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+button{
+  font-size: 20px;
+  margin-left: 30px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button:hover{
+  font-size: 20px;
+  margin-left: 30px;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: rgb(3, 255, 7);
+}
